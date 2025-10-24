@@ -5,8 +5,7 @@
 📘 **Autor:** Felipe Lima
 📅 **Ano:** 2025
 🔗 **Licença:** Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
-![Status](https://img.shields.io/badge/Status-Finalizado-blue)
-![Tecnologia](https://img.shields.io/badge/Stack-React%20%7C%20Tailwind%20%7C%20Jest-informational)
+
 
 ---
 
@@ -125,6 +124,9 @@ Isso significa que você pode:
 
 Este projeto nasceu como parte de um **bootcamp de Prompt Engineering**, mas evoluiu para se tornar um **livro completo sobre o papel da IA na rotina de desenvolvedores Front-end**.
 O *Front-end do Futuro* é tanto um estudo técnico quanto um manifesto criativo sobre a nova geração de desenvolvedores: **menos digitadores, mais curadores.**
+
+![Status](https://img.shields.io/badge/Status-Finalizado-blue)
+![Tecnologia](https://img.shields.io/badge/Stack-React%20%7C%20Tailwind%20%7C%20Jest-informational)
 
 `frontend` · `prompt-engineering` · `ebook` · `javascript` · `inteligencia-artificial` · `ia` · `automacao` · `ux` · `ui` · `portfolio`
 
