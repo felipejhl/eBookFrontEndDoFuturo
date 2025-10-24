@@ -122,7 +122,7 @@ Isso significa que você pode:
 
 ## ⭐ Reconhecimento
 
-Este projeto nasceu como parte de um **bootcamp de Prompt Engineering**, mas evoluiu para se tornar um **livro completo sobre o papel da IA na rotina de desenvolvedores Front-end**.
+Este projeto nasceu como parte do **Bootcamp de Prompt Engineering DIO + Universia**, mas evoluiu para se tornar um **livro completo sobre o papel da IA na rotina de desenvolvedores Front-end**.
 O *Front-end do Futuro* é tanto um estudo técnico quanto um manifesto criativo sobre a nova geração de desenvolvedores: **menos digitadores, mais curadores.**
 
 ![Status](https://img.shields.io/badge/Status-Finalizado-blue)
